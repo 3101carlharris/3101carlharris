@@ -17,3 +17,5 @@ github_username:  3101carlharris
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
